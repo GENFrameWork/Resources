@@ -1,3 +1,1 @@
-# Resources
-
-Resources for GEN
+Init Resources
